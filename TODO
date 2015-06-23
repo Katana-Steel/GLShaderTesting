@@ -6,3 +6,4 @@
 * GLSL shader handling ( setting current program or revert to default )
 * maybe remove ARB handling of GLSL ( gives a lot of dual programming )
 * maybe a load shader on demand system
+* pick a license
